@@ -1,6 +1,7 @@
 ﻿using MultiTenant.Models;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Web;
 using System.Web.Http;
@@ -14,6 +15,7 @@ namespace MultiTenant
     {
         protected void Application_Start()
         {
+            Database.SetInitializer(new MultiTenantInitializer());
             AreaRegistration.RegisterAllAreas();
             GlobalConfiguration.Configure(WebApiConfig.Register);
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
@@ -31,33 +33,6 @@ namespace MultiTenant
             //    {
             //        Title = "Session 1"
             //    });
-            //    context.SaveChanges();
-            //}
-
-            //using(var context = new MultiTenantContext())
-            //{
-            //    var tenants = new List<Tenant>
-            //    {
-            //        new Tenant
-            //        {
-            //            Name = "SVCC",
-            //            DomainName = "www.codecamp.com",
-            //            Default = true
-            //        },
-            //        new Tenant
-            //        {
-            //            Name = "ANGU",
-            //            DomainName = "angularu.com",
-            //            Default = false
-            //        },
-            //        new Tenant
-            //        {
-            //            Name = "CSSC",
-            //            DomainName = "codestarsubmit.com",
-            //            Default = false
-            //        }
-            //    };
-            //    context.Tenants.AddRange(tenants);
             //    context.SaveChanges();
             //}
         }

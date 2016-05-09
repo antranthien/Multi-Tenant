@@ -1,0 +1,2734 @@
+﻿[
+  {
+    "id": 777,
+    "firstName": "Shaun",
+    "lastName": "Abram",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "shaun-abram-0",
+    "sessions": [
+      {
+        "id": 151,
+        "sessionId": 0,
+        "title": "RESTful Microservices",
+        "sessionUrl": "restful-microservices"
+      }
+    ]
+  },
+  {
+    "id": 5443,
+    "firstName": "Mark",
+    "lastName": "Abramson",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "mark-abramson-0",
+    "sessions": [
+      {
+        "id": 104,
+        "sessionId": 0,
+        "title": "Lean Startup for Engineers",
+        "sessionUrl": "lean-startup-for-engineers"
+      }
+    ]
+  },
+  {
+    "id": 32604,
+    "firstName": "Manoj",
+    "lastName": "Agarwal",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "manoj-agarwal-0",
+    "sessions": [
+      {
+        "id": 98,
+        "sessionId": 0,
+        "title": "Ad Serving Technology 101",
+        "sessionUrl": "ad-serving-technology-101"
+      }
+    ]
+  },
+  {
+    "id": 9018,
+    "firstName": "Nir",
+    "lastName": "Alfasi",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "nir-alfasi-0",
+    "sessions": [
+      {
+        "id": 194,
+        "sessionId": 0,
+        "title": "Automating Cassandra operations in Netflix",
+        "sessionUrl": "automating-cassandra-operations-in-netflix"
+      }
+    ]
+  },
+  {
+    "id": 410,
+    "firstName": "Siamak",
+    "lastName": "Ashrafi",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "siamak-ashrafi-0",
+    "sessions": [
+      {
+        "id": 114,
+        "sessionId": 0,
+        "title": "Building IOS9 Apps Using Swift 2.0 And Xcode 7 Beta",
+        "sessionUrl": "building-ios9-apps-using-swift-20-and-xcode-7-beta"
+      },
+      {
+        "id": 182,
+        "sessionId": 0,
+        "title": "Technology and Fashion awaken the Soul of the Shoe",
+        "sessionUrl": "technology-and-fashion-awaken-the-soul-of-the-shoe"
+      }
+    ]
+  },
+  {
+    "id": 37868,
+    "firstName": "Keith",
+    "lastName": "Aytch",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "keith-aytch-0",
+    "sessions": [
+      {
+        "id": 213,
+        "sessionId": 0,
+        "title": "Softs Skills For Tech People Are Not Optional In Todays Job Market",
+        "sessionUrl": "softs-skills-for-tech-people-are-not-optional-in-todays-job-market"
+      }
+    ]
+  },
+  {
+    "id": 8575,
+    "firstName": "Tom",
+    "lastName": "Becker",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "tom-becker-0",
+    "sessions": [
+      {
+        "id": 28,
+        "sessionId": 0,
+        "title": "Radical C# Performance",
+        "sessionUrl": "radical-c-performance"
+      }
+    ]
+  },
+  {
+    "id": 7840,
+    "firstName": "Andrew",
+    "lastName": "Bellay",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "andrew-bellay-0",
+    "sessions": [
+      {
+        "id": 45,
+        "sessionId": 0,
+        "title": "7 Days to Build an iPhone App",
+        "sessionUrl": "7-days-to-build-an-iphone-app"
+      }
+    ]
+  },
+  {
+    "id": 5996,
+    "firstName": "Craig",
+    "lastName": "Berntson",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "craig-berntson-0",
+    "sessions": [
+      {
+        "id": 113,
+        "sessionId": 0,
+        "title": "Healthy Code, Happy Code",
+        "sessionUrl": "healthy-code-happy-code"
+      }
+    ]
+  },
+  {
+    "id": 11366,
+    "firstName": "Paul",
+    "lastName": "Bertucci",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "paul-bertucci-0",
+    "sessions": [
+      {
+        "id": 22,
+        "sessionId": 0,
+        "title": "Master Data Management for Big Data",
+        "sessionUrl": "master-data-management-for-big-data"
+      }
+    ]
+  },
+  {
+    "id": 17453,
+    "firstName": "Pradeep",
+    "lastName": "Bhatter",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "pradeep-bhatter-0",
+    "sessions": [
+      {
+        "id": 100,
+        "sessionId": 0,
+        "title": "Introduction to Arduino - Part 1",
+        "sessionUrl": "introduction-to-arduino---part-1"
+      },
+      {
+        "id": 226,
+        "sessionId": 0,
+        "title": "Introduction to Arduino Part 2",
+        "sessionUrl": "introduction-to-arduino-part-2"
+      }
+    ]
+  },
+  {
+    "id": 2885,
+    "firstName": "JeanCarl",
+    "lastName": "Bisson",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "jeancarl-bisson-0",
+    "sessions": [
+      {
+        "id": 144,
+        "sessionId": 0,
+        "title": "Build your idea at a 24 hour hackathon",
+        "sessionUrl": "build-your-idea-at-a-24-hour-hackathon"
+      }
+    ]
+  },
+  {
+    "id": 2872,
+    "firstName": "Stephen",
+    "lastName": "Boesch",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "stephen-boesch-0",
+    "sessions": [
+      {
+        "id": 16,
+        "sessionId": 0,
+        "title": "A Survey of Machine Learning Techniques Using Spark.ml 1.5.0",
+        "sessionUrl": "a-survey-of-machine-learning-techniques-using-sparkml-150"
+      }
+    ]
+  },
+  {
+    "id": 30473,
+    "firstName": "Kevin",
+    "lastName": "Boles",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "kevin-boles-0",
+    "sessions": [
+      {
+        "id": 7,
+        "sessionId": 0,
+        "title": "Common TSQL Mistakes",
+        "sessionUrl": "common-tsql-mistakes"
+      },
+      {
+        "id": 149,
+        "sessionId": 0,
+        "title": "Unit Testing SQL Server",
+        "sessionUrl": "unit-testing-sql-server"
+      }
+    ]
+  },
+  {
+    "id": 10812,
+    "firstName": "Sam",
+    "lastName": "Bowne",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "sam-bowne-0",
+    "sessions": [
+      {
+        "id": 115,
+        "sessionId": 0,
+        "title": "Is Your Mobile App Secure?",
+        "sessionUrl": "is-your-mobile-app-secure"
+      }
+    ]
+  },
+  {
+    "id": 583,
+    "firstName": "Mathias",
+    "lastName": "Brandewinder",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "mathias-brandewinder-0",
+    "sessions": [
+      {
+        "id": 40,
+        "sessionId": 0,
+        "title": "F# for the C# Developer",
+        "sessionUrl": "f-for-the-c-developer"
+      }
+    ]
+  },
+  {
+    "id": 6417,
+    "firstName": "John",
+    "lastName": "Brinnand",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "john-brinnand-0",
+    "sessions": [
+      {
+        "id": 165,
+        "sessionId": 0,
+        "title": "Distributed Data - System Design",
+        "sessionUrl": "distributed-data---system-design"
+      }
+    ]
+  },
+  {
+    "id": 953,
+    "firstName": "Oswald",
+    "lastName": "Campesato",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "oswald-campesato-0",
+    "sessions": [
+      {
+        "id": 81,
+        "sessionId": 0,
+        "title": " AngularJS 1.x/2.x for Beginners",
+        "sessionUrl": "angularjs-1x2x-for-beginners"
+      },
+      {
+        "id": 164,
+        "sessionId": 0,
+        "title": "Web Components Ecosystem",
+        "sessionUrl": "web-components-ecosystem"
+      }
+    ]
+  },
+  {
+    "id": 6444,
+    "firstName": "Luca",
+    "lastName": "Candela",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "luca-candela-0",
+    "sessions": [
+      {
+        "id": 143,
+        "sessionId": 0,
+        "title": "Product analytics for developers",
+        "sessionUrl": "product-analytics-for-developers"
+      }
+    ]
+  },
+  {
+    "id": 21406,
+    "firstName": "Steven",
+    "lastName": "Chamberlin",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "steven-chamberlin-0",
+    "sessions": [
+      {
+        "id": 130,
+        "sessionId": 0,
+        "title": "Prototype an IoT Healthcare Cloud App with Virtual Sensors",
+        "sessionUrl": "prototype-an-iot-healthcare-cloud-app-with-virtual-sensors"
+      }
+    ]
+  },
+  {
+    "id": 4087,
+    "firstName": "Doris",
+    "lastName": "Chen",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "doris-chen-0",
+    "sessions": [
+      {
+        "id": 119,
+        "sessionId": 0,
+        "title": "Building Web Sites that Work Everywhere",
+        "sessionUrl": "building-web-sites-that-work-everywhere"
+      },
+      {
+        "id": 207,
+        "sessionId": 0,
+        "title": "Latest Trends in Web Frameworks",
+        "sessionUrl": "latest-trends-in-web-frameworks"
+      }
+    ]
+  },
+  {
+    "id": 39006,
+    "firstName": "Diwakar",
+    "lastName": "Cherukumilli",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "diwakar-cherukumilli-0",
+    "sessions": [
+      {
+        "id": 164,
+        "sessionId": 0,
+        "title": "Web Components Ecosystem",
+        "sessionUrl": "web-components-ecosystem"
+      }
+    ]
+  },
+  {
+    "id": 1419,
+    "firstName": "Stephen",
+    "lastName": "Chin",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "stephen-chin-0",
+    "sessions": [
+      {
+        "id": 108,
+        "sessionId": 0,
+        "title": "BYO Java Retro Console",
+        "sessionUrl": "byo-java-retro-console"
+      },
+      {
+        "id": 109,
+        "sessionId": 0,
+        "title": "Java Community Insider Secrets!",
+        "sessionUrl": "java-community-insider-secrets"
+      },
+      {
+        "id": 190,
+        "sessionId": 0,
+        "title": "Lego Mindstorms Programming 4 Kids (Part 1 of 2)",
+        "sessionUrl": "lego-mindstorms-programming-4-kids-part-1-of-2"
+      },
+      {
+        "id": 191,
+        "sessionId": 0,
+        "title": "Lego Mindstorms Programming 4 Kids (Part 2 of 2)",
+        "sessionUrl": "lego-mindstorms-programming-4-kids-part-2-of-2"
+      },
+      {
+        "id": 189,
+        "sessionId": 0,
+        "title": "Raspberry Pi Gaming 4 Kids",
+        "sessionUrl": "raspberry-pi-gaming-4-kids"
+      }
+    ]
+  },
+  {
+    "id": 30466,
+    "firstName": "Rahul",
+    "lastName": "Choudhury",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "rahul-choudhury-0",
+    "sessions": [
+      {
+        "id": 129,
+        "sessionId": 0,
+        "title": "Introduction to Meteor",
+        "sessionUrl": "introduction-to-meteor"
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "firstName": "wesley",
+    "lastName": "chun",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "wesley-chun-0",
+    "sessions": [
+      {
+        "id": 230,
+        "sessionId": 0,
+        "title": "Exploring Google APIs with Python and JavaScript",
+        "sessionUrl": "exploring-google-apis-with-python-and-javascript"
+      },
+      {
+        "id": 63,
+        "sessionId": 0,
+        "title": "What is Python?",
+        "sessionUrl": "what-is-python"
+      }
+    ]
+  },
+  {
+    "id": 10803,
+    "firstName": "Eugene",
+    "lastName": "Chuvyrov",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "eugene-chuvyrov-0",
+    "sessions": [
+      {
+        "id": 199,
+        "sessionId": 0,
+        "title": "Using Apache Spark on Azure in kaggle.com Machnine Learning Challenges",
+        "sessionUrl": "using-apache-spark-on-azure-in-kagglecom-machnine-learning-challenges"
+      }
+    ]
+  },
+  {
+    "id": 8502,
+    "firstName": "Jeremy",
+    "lastName": "Clark",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "jeremy-clark-0",
+    "sessions": [
+      {
+        "id": 103,
+        "sessionId": 0,
+        "title": "DI Why? Getting a Grip on Dependency Injection",
+        "sessionUrl": "di-why-getting-a-grip-on-dependency-injection"
+      },
+      {
+        "id": 146,
+        "sessionId": 0,
+        "title": "Learn the Lingo: Design Patterns",
+        "sessionUrl": "learn-the-lingo-design-patterns"
+      }
+    ]
+  },
+  {
+    "id": 39124,
+    "firstName": "Steve",
+    "lastName": "Corona",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "steve-corona-0",
+    "sessions": [
+      {
+        "id": 224,
+        "sessionId": 0,
+        "title": "Run Node, Php, Ruby or Others on Apache Alternative NGINX",
+        "sessionUrl": "run-node-php-ruby-or-others-on-apache-alternative-nginx"
+      }
+    ]
+  },
+  {
+    "id": 2978,
+    "firstName": "Daniel",
+    "lastName": "Coupal",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "daniel-coupal-0",
+    "sessions": [
+      {
+        "id": 137,
+        "sessionId": 0,
+        "title": "Advanced MongoDB - the sequel",
+        "sessionUrl": "advanced-mongodb---the-sequel"
+      }
+    ]
+  },
+  {
+    "id": 17424,
+    "firstName": "Eric",
+    "lastName": "Courville",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "eric-courville-0",
+    "sessions": [
+      {
+        "id": 99,
+        "sessionId": 0,
+        "title": "Managing Microsoft Azure with PowerShell",
+        "sessionUrl": "managing-microsoft-azure-with-powershell"
+      }
+    ]
+  },
+  {
+    "id": 1124,
+    "firstName": "Douglas",
+    "lastName": "Crockford",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "douglas-crockford-0",
+    "sessions": [
+      {
+        "id": 13,
+        "sessionId": 0,
+        "title": "Managing Programmers",
+        "sessionUrl": "managing-programmers"
+      },
+      {
+        "id": 6,
+        "sessionId": 0,
+        "title": "The Better Parts",
+        "sessionUrl": "the-better-parts"
+      }
+    ]
+  },
+  {
+    "id": 36228,
+    "firstName": "Jennelle",
+    "lastName": "Crothers",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "jennelle-crothers-0",
+    "sessions": [
+      {
+        "id": 157,
+        "sessionId": 0,
+        "title": "Intro to PowerShell for Windows and Azure",
+        "sessionUrl": "intro-to-powershell-for-windows-and-azure"
+      }
+    ]
+  },
+  {
+    "id": 36223,
+    "firstName": "Jessica",
+    "lastName": "Deen",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "jessica-deen-0",
+    "sessions": [
+      {
+        "id": 167,
+        "sessionId": 0,
+        "title": "How to setup a Linux Web Server and use it to monitor your home!",
+        "sessionUrl": "how-to-setup-a-linux-web-server-and-use-it-to-monitor-your-home"
+      }
+    ]
+  },
+  {
+    "id": 20985,
+    "firstName": "Randall",
+    "lastName": "Degges",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "randall-degges-0",
+    "sessions": [
+      {
+        "id": 118,
+        "sessionId": 0,
+        "title": "Everything You Ever Wanted to Know About Node Authentication",
+        "sessionUrl": "everything-you-ever-wanted-to-know-about-node-authentication"
+      }
+    ]
+  },
+  {
+    "id": 29199,
+    "firstName": "khushali",
+    "lastName": "Desai",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "khushali-desai-0",
+    "sessions": [
+      {
+        "id": 173,
+        "sessionId": 0,
+        "title": "MIT App Inventor, android Mobile Application ",
+        "sessionUrl": "mit-app-inventor-android-mobile-application"
+      }
+    ]
+  },
+  {
+    "id": 7594,
+    "firstName": "Vamshideep",
+    "lastName": "Devershetty",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "vamshideep-devershetty-0",
+    "sessions": [
+      {
+        "id": 121,
+        "sessionId": 0,
+        "title": "Getting Started With Cloud-Based Machine Learning",
+        "sessionUrl": "getting-started-with-cloud-based-machine-learning"
+      }
+    ]
+  },
+  {
+    "id": 1164,
+    "firstName": "Nima",
+    "lastName": "Dilmaghani",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "nima-dilmaghani-0",
+    "sessions": [
+      {
+        "id": 160,
+        "sessionId": 0,
+        "title": "0 to 60 with Regular Expressions in 75 minutes",
+        "sessionUrl": "0-to-60-with-regular-expressions-in-75-minutes"
+      }
+    ]
+  },
+  {
+    "id": 6558,
+    "firstName": "John David",
+    "lastName": "Duncan",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "john-david-duncan-0",
+    "sessions": [
+      {
+        "id": 112,
+        "sessionId": 0,
+        "title": "Building node.js applications with Database Jones",
+        "sessionUrl": "building-nodejs-applications-with-database-jones"
+      }
+    ]
+  },
+  {
+    "id": 8573,
+    "firstName": "Bill",
+    "lastName": "Enright",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "bill-enright-0",
+    "sessions": [
+      {
+        "id": 20,
+        "sessionId": 0,
+        "title": "Your Game is Served - Node, JavaScript and the Cloud",
+        "sessionUrl": "your-game-is-served---node-javascript-and-the-cloud"
+      }
+    ]
+  },
+  {
+    "id": 36201,
+    "firstName": "Livi",
+    "lastName": "Erickson",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "livi-erickson-0",
+    "sessions": [
+      {
+        "id": 126,
+        "sessionId": 0,
+        "title": "Beginning Virtual Reality Development",
+        "sessionUrl": "beginning-virtual-reality-development"
+      }
+    ]
+  },
+  {
+    "id": 37331,
+    "firstName": "Jerome",
+    "lastName": "Etienne",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "jerome-etienne-0",
+    "sessions": [
+      {
+        "id": 156,
+        "sessionId": 0,
+        "title": "How To Integrate a Graphical Language to Code Augmented Reality On The Web ",
+        "sessionUrl": "how-to-integrate-a-graphical-language-to-code-augmented-reality-on-the-web"
+      }
+    ]
+  },
+  {
+    "id": 385,
+    "firstName": "Steve",
+    "lastName": "Evans",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "steve-evans-0",
+    "sessions": [
+      {
+        "id": 120,
+        "sessionId": 0,
+        "title": "TCP/IP Networking for Developers",
+        "sessionUrl": "tcpip-networking-for-developers"
+      }
+    ]
+  },
+  {
+    "id": 37707,
+    "firstName": "Anthony",
+    "lastName": "Fabbricino",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "anthony-fabbricino-0",
+    "sessions": [
+      {
+        "id": 195,
+        "sessionId": 0,
+        "title": "Ring Ring: The Internet is Calling. Learn the Basics behind WebRTC",
+        "sessionUrl": "ring-ring-the-internet-is-calling-learn-the-basics-behind-webrtc"
+      }
+    ]
+  },
+  {
+    "id": 8345,
+    "firstName": "Jeremy",
+    "lastName": "Foster",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "jeremy-foster-0",
+    "sessions": [
+      {
+        "id": 148,
+        "sessionId": 0,
+        "title": "Making Tweet Monkey Using Node.js",
+        "sessionUrl": "making-tweet-monkey-using-nodejs"
+      },
+      {
+        "id": 158,
+        "sessionId": 0,
+        "title": "Mastering Node.js Modules",
+        "sessionUrl": "mastering-nodejs-modules"
+      }
+    ]
+  },
+  {
+    "id": 14918,
+    "firstName": "Claudia",
+    "lastName": "Galvan",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "claudia-galvan-0",
+    "sessions": [
+      {
+        "id": 105,
+        "sessionId": 0,
+        "title": "Innovation for Women Engineers",
+        "sessionUrl": "innovation-for-women-engineers"
+      }
+    ]
+  },
+  {
+    "id": 821,
+    "firstName": "Bill",
+    "lastName": "Glosser",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "bill-glosser-0",
+    "sessions": [
+      {
+        "id": 188,
+        "sessionId": 0,
+        "title": "Using a combination of Bootstrap and ASP.net to knockout SPA websites.",
+        "sessionUrl": "using-a-combination-of-bootstrap-and-aspnet-to-knockout-spa-websites"
+      }
+    ]
+  },
+  {
+    "id": 4241,
+    "firstName": "Doug",
+    "lastName": "Goldie",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "doug-goldie-0",
+    "sessions": [
+      {
+        "id": 227,
+        "sessionId": 0,
+        "title": "Introduction to Elixir and the Rise of the Phoenix",
+        "sessionUrl": "introduction-to-elixir-and-the-rise-of-the-phoenix"
+      }
+    ]
+  },
+  {
+    "id": 509,
+    "firstName": "Kim",
+    "lastName": "Greenlee",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "kim-greenlee-0",
+    "sessions": [
+      {
+        "id": 142,
+        "sessionId": 0,
+        "title": "Organizational Risk Management",
+        "sessionUrl": "organizational-risk-management"
+      }
+    ]
+  },
+  {
+    "id": 8966,
+    "firstName": "Aaron",
+    "lastName": "Griffith",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "aaron-griffith-0",
+    "sessions": [
+      {
+        "id": 180,
+        "sessionId": 0,
+        "title": "The Agile Manifesto in the Star Wars Universe",
+        "sessionUrl": "the-agile-manifesto-in-the-star-wars-universe"
+      }
+    ]
+  },
+  {
+    "id": 28462,
+    "firstName": "Mohammed",
+    "lastName": "Guller",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "mohammed-guller-0",
+    "sessions": [
+      {
+        "id": 23,
+        "sessionId": 0,
+        "title": "Big Data Analytics with Spark",
+        "sessionUrl": "big-data-analytics-with-spark"
+      }
+    ]
+  },
+  {
+    "id": 11541,
+    "firstName": "Aditya",
+    "lastName": "Gupta",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "aditya-gupta-0",
+    "sessions": [
+      {
+        "id": 136,
+        "sessionId": 0,
+        "title": "Minecraft Modding with Forge - Part 1",
+        "sessionUrl": "minecraft-modding-with-forge---part-1"
+      },
+      {
+        "id": 187,
+        "sessionId": 0,
+        "title": "Minecraft Modding with Forge - Part 2",
+        "sessionUrl": "minecraft-modding-with-forge---part-2"
+      }
+    ]
+  },
+  {
+    "id": 1269,
+    "firstName": "Arun",
+    "lastName": "Gupta",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "arun-gupta-0",
+    "sessions": [
+      {
+        "id": 11,
+        "sessionId": 0,
+        "title": "Docker and Kubernetes Recipes for Java Applications",
+        "sessionUrl": "docker-and-kubernetes-recipes-for-java-applications"
+      },
+      {
+        "id": 136,
+        "sessionId": 0,
+        "title": "Minecraft Modding with Forge - Part 1",
+        "sessionUrl": "minecraft-modding-with-forge---part-1"
+      },
+      {
+        "id": 187,
+        "sessionId": 0,
+        "title": "Minecraft Modding with Forge - Part 2",
+        "sessionUrl": "minecraft-modding-with-forge---part-2"
+      }
+    ]
+  },
+  {
+    "id": 11573,
+    "firstName": "Menka",
+    "lastName": "Gupta",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "menka-gupta-0",
+    "sessions": [
+      {
+        "id": 211,
+        "sessionId": 0,
+        "title": "Lets Scratch Games!",
+        "sessionUrl": "lets-scratch-games"
+      }
+    ]
+  },
+  {
+    "id": 341,
+    "firstName": "PJ",
+    "lastName": "Gupta",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "pj-gupta-0",
+    "sessions": [
+      {
+        "id": 214,
+        "sessionId": 0,
+        "title": "Integrating online payments",
+        "sessionUrl": "integrating-online-payments"
+      }
+    ]
+  },
+  {
+    "id": 2505,
+    "firstName": "Ansel",
+    "lastName": "Halliburton",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "ansel-halliburton-0",
+    "sessions": [
+      {
+        "id": 65,
+        "sessionId": 0,
+        "title": "IP Basics",
+        "sessionUrl": "ip-basics"
+      }
+    ]
+  },
+  {
+    "id": 19830,
+    "firstName": "Nuri",
+    "lastName": "Halperin",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "nuri-halperin-0",
+    "sessions": [
+      {
+        "id": 117,
+        "sessionId": 0,
+        "title": "First steps with MongoDB",
+        "sessionUrl": "first-steps-with-mongodb"
+      },
+      {
+        "id": 231,
+        "sessionId": 0,
+        "title": "First steps with MongoDB (Repeat)",
+        "sessionUrl": "first-steps-with-mongodb-repeat"
+      }
+    ]
+  },
+  {
+    "id": 37622,
+    "firstName": "Robert",
+    "lastName": "Harker",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "robert-harker-0",
+    "sessions": [
+      {
+        "id": 179,
+        "sessionId": 0,
+        "title": "Using Jenkins To Automate Building, Testing And Deployment Of New Code",
+        "sessionUrl": "using-jenkins-to-automate-building-testing-and-deployment-of-new-code"
+      }
+    ]
+  },
+  {
+    "id": 913,
+    "firstName": "Matt",
+    "lastName": "Harrington",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "matt-harrington-0",
+    "sessions": [
+      {
+        "id": 134,
+        "sessionId": 0,
+        "title": "Intro to Xamarin: Cross-platform iOS & Android Apps with Native Performance",
+        "sessionUrl": "intro-to-xamarin-cross-platform-ios-android-apps-with-native-performance"
+      }
+    ]
+  },
+  {
+    "id": 30656,
+    "firstName": "Katherine",
+    "lastName": "Harris",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "katherine-harris-0",
+    "sessions": [
+      {
+        "id": 176,
+        "sessionId": 0,
+        "title": "An introduction to Windows XAML",
+        "sessionUrl": "an-introduction-to-windows-xaml"
+      },
+      {
+        "id": 26,
+        "sessionId": 0,
+        "title": "Unity Development",
+        "sessionUrl": "unity-development"
+      }
+    ]
+  },
+  {
+    "id": 37723,
+    "firstName": "Forbes",
+    "lastName": "Hedges",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "forbes-hedges-0",
+    "sessions": [
+      {
+        "id": 198,
+        "sessionId": 0,
+        "title": "Challenges of HyperScale HyperConvergence Big Data Cloud Automation",
+        "sessionUrl": "challenges-of-hyperscale-hyperconvergence-big-data-cloud-automation"
+      }
+    ]
+  },
+  {
+    "id": 6765,
+    "firstName": "Steven",
+    "lastName": "Hoffman",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "steven-hoffman-0",
+    "sessions": [
+      {
+        "id": 10,
+        "sessionId": 0,
+        "title": " 10 Steps to Startup Funding",
+        "sessionUrl": "10-steps-to-startup-funding"
+      }
+    ]
+  },
+  {
+    "id": 6464,
+    "firstName": "Kirsten",
+    "lastName": "Hunter",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "kirsten-hunter-0",
+    "sessions": [
+      {
+        "id": 110,
+        "sessionId": 0,
+        "title": "Irresistible APIs: Creating Platforms with Developers in Mind",
+        "sessionUrl": "irresistible-apis-creating-platforms-with-developers-in-mind"
+      },
+      {
+        "id": 62,
+        "sessionId": 0,
+        "title": "Using Docker to Bootstrap Learning",
+        "sessionUrl": "using-docker-to-bootstrap-learning"
+      }
+    ]
+  },
+  {
+    "id": 39080,
+    "firstName": "Nazmul",
+    "lastName": "Idris",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "nazmul-idris-0",
+    "sessions": [
+      {
+        "id": 223,
+        "sessionId": 0,
+        "title": "Integrating Sensor Data into Mobile Applications To Make Them Smarter",
+        "sessionUrl": "integrating-sensor-data-into-mobile-applications-to-make-them-smarter"
+      }
+    ]
+  },
+  {
+    "id": 3211,
+    "firstName": "Matt",
+    "lastName": "Ingenthron",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "matt-ingenthron-0",
+    "sessions": [
+      {
+        "id": 229,
+        "sessionId": 0,
+        "title": "Couchbase – Develop with Agility and Less Compromises",
+        "sessionUrl": "couchbase---develop-with-agility-and-less-compromises"
+      },
+      {
+        "id": 234,
+        "sessionId": 0,
+        "title": "Couchbase – Develop with Agility and Less Compromises (Repeat)",
+        "sessionUrl": "couchbase---develop-with-agility-and-less-compromises-repeat"
+      }
+    ]
+  },
+  {
+    "id": 37892,
+    "firstName": "Rasika",
+    "lastName": "Iyer",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "rasika-iyer-0",
+    "sessions": [
+      {
+        "id": 217,
+        "sessionId": 0,
+        "title": "Create your own website!",
+        "sessionUrl": "create-your-own-website"
+      }
+    ]
+  },
+  {
+    "id": 30461,
+    "firstName": "Justin",
+    "lastName": "James",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "justin-james-0",
+    "sessions": [
+      {
+        "id": 163,
+        "sessionId": 0,
+        "title": "Fast-Track Your Development Environment Setup and Management with Vagrant",
+        "sessionUrl": "fast-track-your-development-environment-setup-and-management-with-vagrant"
+      },
+      {
+        "id": 5,
+        "sessionId": 0,
+        "title": "Ionic - Revolutionizing Hybrid Mobile Application Development",
+        "sessionUrl": "ionic---revolutionizing-hybrid-mobile-application-development"
+      }
+    ]
+  },
+  {
+    "id": 4578,
+    "firstName": "Jorg",
+    "lastName": "Janke",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "jorg-janke-0",
+    "sessions": [
+      {
+        "id": 27,
+        "sessionId": 0,
+        "title": "From GWT to Dart, the better Javascript",
+        "sessionUrl": "from-gwt-to-dart-the-better-javascript"
+      }
+    ]
+  },
+  {
+    "id": 1405,
+    "firstName": "Theo",
+    "lastName": "Jungeblut",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "theo-jungeblut-0",
+    "sessions": [
+      {
+        "id": 152,
+        "sessionId": 0,
+        "title": "Accidentally Manager – A Survival Guide for First-Time Engineering Managers",
+        "sessionUrl": "accidentally-manager---a-survival-guide-for-first-time-engineering-managers"
+      },
+      {
+        "id": 153,
+        "sessionId": 0,
+        "title": "Clean Code I - Best Practices",
+        "sessionUrl": "clean-code-i---best-practices"
+      },
+      {
+        "id": 154,
+        "sessionId": 0,
+        "title": "Clean Code II - Dependency Injection",
+        "sessionUrl": "clean-code-ii---dependency-injection"
+      }
+    ]
+  },
+  {
+    "id": 37594,
+    "firstName": "Noah",
+    "lastName": "Kantrowitz",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "noah-kantrowitz-0",
+    "sessions": [
+      {
+        "id": 178,
+        "sessionId": 0,
+        "title": "How the Internet Works",
+        "sessionUrl": "how-the-internet-works"
+      }
+    ]
+  },
+  {
+    "id": 18687,
+    "firstName": "Agnew",
+    "lastName": "Kernalinux",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "agnew-kernalinux-0",
+    "sessions": [
+      {
+        "id": 9,
+        "sessionId": 0,
+        "title": "Online Privacy Tools for Parents and Kids of all ages",
+        "sessionUrl": "online-privacy-tools-for-parents-and-kids-of-all-ages"
+      }
+    ]
+  },
+  {
+    "id": 39399,
+    "firstName": "Rex",
+    "lastName": "Kerr",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "rex-kerr-0",
+    "sessions": [
+      {
+        "id": 228,
+        "sessionId": 0,
+        "title": "Exploring C++11/14",
+        "sessionUrl": "exploring-c1114"
+      }
+    ]
+  },
+  {
+    "id": 31982,
+    "firstName": "Muhammad Ahmad",
+    "lastName": "Khan",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "muhammad-ahmad-khan-0",
+    "sessions": [
+      {
+        "id": 68,
+        "sessionId": 0,
+        "title": "Hacking web applications: practical offense and defense",
+        "sessionUrl": "hacking-web-applications-practical-offense-and-defense"
+      }
+    ]
+  },
+  {
+    "id": 672,
+    "firstName": "Manoj",
+    "lastName": "Kumar",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "manoj-kumar-0",
+    "sessions": [
+      {
+        "id": 17,
+        "sessionId": 0,
+        "title": "Amazing new features in JavaScript",
+        "sessionUrl": "amazing-new-features-in-javascript"
+      }
+    ]
+  },
+  {
+    "id": 653,
+    "firstName": "Deborah",
+    "lastName": "Kurata",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "deborah-kurata-0",
+    "sessions": [
+      {
+        "id": 67,
+        "sessionId": 0,
+        "title": "Angular 101",
+        "sessionUrl": "angular-101"
+      }
+    ]
+  },
+  {
+    "id": 1426,
+    "firstName": "Ramnivas",
+    "lastName": "Laddad",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "ramnivas-laddad-0",
+    "sessions": [
+      {
+        "id": 95,
+        "sessionId": 0,
+        "title": "Full Stack Scala",
+        "sessionUrl": "full-stack-scala"
+      }
+    ]
+  },
+  {
+    "id": 11098,
+    "firstName": "Shadaj",
+    "lastName": "Laddad",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "shadaj-laddad-0",
+    "sessions": [
+      {
+        "id": 97,
+        "sessionId": 0,
+        "title": "Scala: Power and Versatility",
+        "sessionUrl": "scala-power-and-versatility"
+      },
+      {
+        "id": 91,
+        "sessionId": 0,
+        "title": "Zero to Fractals in 75 Minutes",
+        "sessionUrl": "zero-to-fractals-in-75-minutes"
+      }
+    ]
+  },
+  {
+    "id": 37813,
+    "firstName": "Mark",
+    "lastName": "Lavi",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "mark-lavi-0",
+    "sessions": [
+      {
+        "id": 208,
+        "sessionId": 0,
+        "title": "Demystifying DevOps",
+        "sessionUrl": "demystifying-devops"
+      }
+    ]
+  },
+  {
+    "id": 11752,
+    "firstName": "Donn",
+    "lastName": "Lee",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "donn-lee-0",
+    "sessions": [
+      {
+        "id": 185,
+        "sessionId": 0,
+        "title": "Bitcoin: Digital Cash -- The Basics",
+        "sessionUrl": "bitcoin-digital-cash----the-basics"
+      }
+    ]
+  },
+  {
+    "id": 11243,
+    "firstName": "Ami",
+    "lastName": "Levin",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "ami-levin-0",
+    "sessions": [
+      {
+        "id": 141,
+        "sessionId": 0,
+        "title": "Where did I put my (primary) keys?",
+        "sessionUrl": "where-did-i-put-my-primary-keys"
+      }
+    ]
+  },
+  {
+    "id": 36290,
+    "firstName": "MengKe",
+    "lastName": "Li",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "mengke-li-0",
+    "sessions": [
+      {
+        "id": 147,
+        "sessionId": 0,
+        "title": "Update Traditional Data Pipeline to Fit Big Data and Cloud",
+        "sessionUrl": "update-traditional-data-pipeline-to-fit-big-data-and-cloud"
+      }
+    ]
+  },
+  {
+    "id": 2920,
+    "firstName": "Ron",
+    "lastName": "Lichty",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "ron-lichty-0",
+    "sessions": [
+      {
+        "id": 155,
+        "sessionId": 0,
+        "title": "Crafting an Effective Agile Development Culture",
+        "sessionUrl": "crafting-an-effective-agile-development-culture"
+      },
+      {
+        "id": 123,
+        "sessionId": 0,
+        "title": "Keys to Superb Product Team Performance",
+        "sessionUrl": "keys-to-superb-product-team-performance"
+      }
+    ]
+  },
+  {
+    "id": 39108,
+    "firstName": "Erik",
+    "lastName": "Lindeman",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "erik-lindeman-0",
+    "sessions": [
+      {
+        "id": 225,
+        "sessionId": 0,
+        "title": "An introduction to the Bing Maps Platform",
+        "sessionUrl": "an-introduction-to-the-bing-maps-platform"
+      }
+    ]
+  },
+  {
+    "id": 1415,
+    "firstName": "Juval",
+    "lastName": "Lowy",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "juval-lowy-0",
+    "sessions": [
+      {
+        "id": 125,
+        "sessionId": 0,
+        "title": "Software Project Design",
+        "sessionUrl": "software-project-design"
+      },
+      {
+        "id": 124,
+        "sessionId": 0,
+        "title": "Zen of Architecture",
+        "sessionUrl": "zen-of-architecture"
+      }
+    ]
+  },
+  {
+    "id": 37519,
+    "firstName": "Robert",
+    "lastName": "Macdonald Smith",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "robert-macdonald-smith-0",
+    "sessions": [
+      {
+        "id": 186,
+        "sessionId": 0,
+        "title": "Exploring the Actor Model with Akka.NET",
+        "sessionUrl": "exploring-the-actor-model-with-akkanet"
+      }
+    ]
+  },
+  {
+    "id": 3608,
+    "firstName": "Neil",
+    "lastName": "Mackenzie",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "neil-mackenzie-0",
+    "sessions": [
+      {
+        "id": 183,
+        "sessionId": 0,
+        "title": "Creating Micro-services in Microsoft Service Fabric",
+        "sessionUrl": "creating-micro-services-in-microsoft-service-fabric"
+      }
+    ]
+  },
+  {
+    "id": 37623,
+    "firstName": "Fuad",
+    "lastName": "Malikov",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "fuad-malikov-0",
+    "sessions": [
+      {
+        "id": 181,
+        "sessionId": 0,
+        "title": "Building Scalable Applications with Hazelcast",
+        "sessionUrl": "building-scalable-applications-with-hazelcast"
+      }
+    ]
+  },
+  {
+    "id": 2059,
+    "firstName": "Ratnakar",
+    "lastName": "Malla",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "ratnakar-malla-0",
+    "sessions": [
+      {
+        "id": 162,
+        "sessionId": 0,
+        "title": "Identify & Solve Performance problems",
+        "sessionUrl": "identify-solve-performance-problems"
+      }
+    ]
+  },
+  {
+    "id": 3768,
+    "firstName": "Bernie",
+    "lastName": "Maloney",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "bernie-maloney-0",
+    "sessions": [
+      {
+        "id": 21,
+        "sessionId": 0,
+        "title": "Create Influence, On Demand",
+        "sessionUrl": "create-influence-on-demand"
+      }
+    ]
+  },
+  {
+    "id": 11661,
+    "firstName": "Lenny",
+    "lastName": "Markus",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "lenny-markus-0",
+    "sessions": [
+      {
+        "id": 232,
+        "sessionId": 0,
+        "title": "Everything you wanted to know about Git, but were afraid to ask (Repeat)",
+        "sessionUrl": "everything-you-wanted-to-know-about-git-but-were-afraid-to-ask-repeat"
+      },
+      {
+        "id": 88,
+        "sessionId": 0,
+        "title": "Everything you wanted to know about Git, but were afraid to ask.",
+        "sessionUrl": "everything-you-wanted-to-know-about-git-but-were-afraid-to-ask"
+      }
+    ]
+  },
+  {
+    "id": 1995,
+    "firstName": "Beth",
+    "lastName": "Massi",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "beth-massi-0",
+    "sessions": [
+      {
+        "id": 200,
+        "sessionId": 0,
+        "title": "Introduction to .NET Core and ASP.NET 5",
+        "sessionUrl": "introduction-to-net-core-and-aspnet-5"
+      }
+    ]
+  },
+  {
+    "id": 12586,
+    "firstName": "Christine ",
+    "lastName": "Matheney",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "christine--matheney-0",
+    "sessions": [
+      {
+        "id": 202,
+        "sessionId": 0,
+        "title": "All in a flap – how to create your own flappy bird clone with TouchDevelop",
+        "sessionUrl": "all-in-a-flap---how-to-create-your-own-flappy-bird-clone-with-touchdevelop"
+      },
+      {
+        "id": 203,
+        "sessionId": 0,
+        "title": "Build your first social app using Twitter Instagram and more with AppStudio",
+        "sessionUrl": "build-your-first-social-app-using-twitter-instagram-and-more-with-appstudio"
+      },
+      {
+        "id": 145,
+        "sessionId": 0,
+        "title": "Intro to Office 365 Development - Add-ins for Office",
+        "sessionUrl": "intro-to-office-365-development---add-ins-for-office"
+      },
+      {
+        "id": 201,
+        "sessionId": 0,
+        "title": "Intro to Office 365 Development – O365 APIs",
+        "sessionUrl": "intro-to-office-365-development---o365-apis"
+      },
+      {
+        "id": 204,
+        "sessionId": 0,
+        "title": "Throwing Birds into Blocks with Construct 2 (part 1 of 2)",
+        "sessionUrl": "throwing-birds-into-blocks-with-construct-2-part-1-of-2"
+      },
+      {
+        "id": 205,
+        "sessionId": 0,
+        "title": "Throwing Birds into Blocks with Construct 2 (part 2 of 2)",
+        "sessionUrl": "throwing-birds-into-blocks-with-construct-2-part-2-of-2"
+      }
+    ]
+  },
+  {
+    "id": 4816,
+    "firstName": "Ramona",
+    "lastName": "Maxwell",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "ramona-maxwell-0",
+    "sessions": [
+      {
+        "id": 138,
+        "sessionId": 0,
+        "title": "Windows Workflow Development for SharePoint 2013",
+        "sessionUrl": "windows-workflow-development-for-sharepoint-2013"
+      },
+      {
+        "id": 107,
+        "sessionId": 0,
+        "title": "Windows Workflow Implementation for SharePoint 2013",
+        "sessionUrl": "windows-workflow-implementation-for-sharepoint-2013"
+      }
+    ]
+  },
+  {
+    "id": 5995,
+    "firstName": "David",
+    "lastName": "McCarter",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "david-mccarter-0",
+    "sessions": [
+      {
+        "id": 92,
+        "sessionId": 0,
+        "title": "Rock Your Technical Interview (Part 1)",
+        "sessionUrl": "rock-your-technical-interview-part-1"
+      },
+      {
+        "id": 93,
+        "sessionId": 0,
+        "title": "Rock Your Technical Interview (Part 2)",
+        "sessionUrl": "rock-your-technical-interview-part-2"
+      }
+    ]
+  },
+  {
+    "id": 8367,
+    "firstName": "Gayle Laakmann",
+    "lastName": "McDowell",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "gayle-laakmann-mcdowell-0",
+    "sessions": [
+      {
+        "id": 18,
+        "sessionId": 0,
+        "title": "Cracking the Coding Interview",
+        "sessionUrl": "cracking-the-coding-interview"
+      },
+      {
+        "id": 19,
+        "sessionId": 0,
+        "title": "Cracking the Product Manager Interview",
+        "sessionUrl": "cracking-the-product-manager-interview"
+      }
+    ]
+  },
+  {
+    "id": 11625,
+    "firstName": "Todd",
+    "lastName": "McLeod",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "todd-mcleod-0",
+    "sessions": [
+      {
+        "id": 14,
+        "sessionId": 0,
+        "title": "Go Language & Google Cloud - Building Web Apps That Scale",
+        "sessionUrl": "go-language-google-cloud---building-web-apps-that-scale"
+      }
+    ]
+  },
+  {
+    "id": 17449,
+    "firstName": "Todd",
+    "lastName": "McLeod",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "todd-mcleod-0",
+    "sessions": [
+      {
+        "id": 39,
+        "sessionId": 0,
+        "title": "Using Go Language to Build Web Apps That Scale",
+        "sessionUrl": "using-go-language-to-build-web-apps-that-scale"
+      }
+    ]
+  },
+  {
+    "id": 36253,
+    "firstName": "Samaira",
+    "lastName": "mehta",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "samaira-mehta-0",
+    "sessions": [
+      {
+        "id": 171,
+        "sessionId": 0,
+        "title": "CoderBunnyz - Teaching coding fundamentals with a fun board game",
+        "sessionUrl": "coderbunnyz---teaching-coding-fundamentals-with-a-fun-board-game"
+      }
+    ]
+  },
+  {
+    "id": 32070,
+    "firstName": "Sebastian",
+    "lastName": "Meine",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "sebastian-meine-0",
+    "sessions": [
+      {
+        "id": 71,
+        "sessionId": 0,
+        "title": "SQL Server Cryptology – A Primer",
+        "sessionUrl": "sql-server-cryptology---a-primer"
+      }
+    ]
+  },
+  {
+    "id": 13162,
+    "firstName": "Ryan",
+    "lastName": "Michela",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "ryan-michela-0",
+    "sessions": [
+      {
+        "id": 61,
+        "sessionId": 0,
+        "title": "Slaying the services monolith",
+        "sessionUrl": "slaying-the-services-monolith"
+      }
+    ]
+  },
+  {
+    "id": 36196,
+    "firstName": "Andrew",
+    "lastName": "Moll",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "andrew-moll-0",
+    "sessions": [
+      {
+        "id": 176,
+        "sessionId": 0,
+        "title": "An introduction to Windows XAML",
+        "sessionUrl": "an-introduction-to-windows-xaml"
+      },
+      {
+        "id": 128,
+        "sessionId": 0,
+        "title": "Real-time Analytics- We want it now!",
+        "sessionUrl": "real-time-analytics--we-want-it-now"
+      },
+      {
+        "id": 206,
+        "sessionId": 0,
+        "title": "So you want to be a data scientist?",
+        "sessionUrl": "so-you-want-to-be-a-data-scientist"
+      }
+    ]
+  },
+  {
+    "id": 391,
+    "firstName": "Steve",
+    "lastName": "Mylroie",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "steve-mylroie-0",
+    "sessions": [
+      {
+        "id": 161,
+        "sessionId": 0,
+        "title": "Windows Talk to Me",
+        "sessionUrl": "windows-talk-to-me"
+      }
+    ]
+  },
+  {
+    "id": 36173,
+    "firstName": "Gianpiero",
+    "lastName": "Napoli",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "gianpiero-napoli-0",
+    "sessions": [
+      {
+        "id": 175,
+        "sessionId": 0,
+        "title": "DDSConnector: The Industrial Internet of Things Platform in Node.JS",
+        "sessionUrl": "ddsconnector-the-industrial-internet-of-things-platform-in-nodejs"
+      }
+    ]
+  },
+  {
+    "id": 16334,
+    "firstName": "Paul",
+    "lastName": "Nguyen",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "paul-nguyen-0",
+    "sessions": [
+      {
+        "id": 122,
+        "sessionId": 0,
+        "title": "Aspect-Oriented Programming and Cloud Computing",
+        "sessionUrl": "aspect-oriented-programming-and-cloud-computing"
+      }
+    ]
+  },
+  {
+    "id": 3701,
+    "firstName": "Tam",
+    "lastName": "Nguyen",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "tam-nguyen-0",
+    "sessions": [
+      {
+        "id": 172,
+        "sessionId": 0,
+        "title": "Fun and Games with JavaScript+Processing",
+        "sessionUrl": "fun-and-games-with-javascriptprocessing"
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "firstName": "Dave",
+    "lastName": "Nielsen",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "dave-nielsen-0",
+    "sessions": [
+      {
+        "id": 60,
+        "sessionId": 0,
+        "title": "Deploy Your First App on Cloud Foundry",
+        "sessionUrl": "deploy-your-first-app-on-cloud-foundry"
+      },
+      {
+        "id": 166,
+        "sessionId": 0,
+        "title": "Intro to NoSQL with Redis",
+        "sessionUrl": "intro-to-nosql-with-redis"
+      }
+    ]
+  },
+  {
+    "id": 823,
+    "firstName": "Kevin",
+    "lastName": "Nilson",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "kevin-nilson-0",
+    "sessions": [
+      {
+        "id": 177,
+        "sessionId": 0,
+        "title": "Bringing Web Content to the Big Screen with Google Cast",
+        "sessionUrl": "bringing-web-content-to-the-big-screen-with-google-cast"
+      }
+    ]
+  },
+  {
+    "id": 39062,
+    "firstName": "Michael",
+    "lastName": "North",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "michael-north-0",
+    "sessions": [
+      {
+        "id": 221,
+        "sessionId": 0,
+        "title": "Introduction to Ember 2.0",
+        "sessionUrl": "introduction-to-ember-20"
+      }
+    ]
+  },
+  {
+    "id": 1430,
+    "firstName": "Manish",
+    "lastName": "Pandit",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "manish-pandit-0",
+    "sessions": [
+      {
+        "id": 42,
+        "sessionId": 0,
+        "title": "Securing your APIs with OAuth, OpenID and OpenID Connect",
+        "sessionUrl": "securing-your-apis-with-oauth-openid-and-openid-connect"
+      }
+    ]
+  },
+  {
+    "id": 2867,
+    "firstName": "Massimo",
+    "lastName": "Paolini",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "massimo-paolini-0",
+    "sessions": [
+      {
+        "id": 96,
+        "sessionId": 0,
+        "title": "Keyword Research Under a Microscope: Advanced SEO Techniques",
+        "sessionUrl": "keyword-research-under-a-microscope-advanced-seo-techniques"
+      }
+    ]
+  },
+  {
+    "id": 31779,
+    "firstName": "Matt",
+    "lastName": "Perez",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "matt-perez-0",
+    "sessions": [
+      {
+        "id": 43,
+        "sessionId": 0,
+        "title": "Magic w/o Tricks: Avoiding the Culture-from-Hell Syndrome",
+        "sessionUrl": "magic-wo-tricks-avoiding-the-culture-from-hell-syndrome"
+      }
+    ]
+  },
+  {
+    "id": 15080,
+    "firstName": "Elena",
+    "lastName": "Philipova",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "elena-philipova-0",
+    "sessions": [
+      {
+        "id": 182,
+        "sessionId": 0,
+        "title": "Technology and Fashion awaken the Soul of the Shoe",
+        "sessionUrl": "technology-and-fashion-awaken-the-soul-of-the-shoe"
+      }
+    ]
+  },
+  {
+    "id": 11757,
+    "firstName": "Yorick",
+    "lastName": "Phoenix",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "yorick-phoenix-0",
+    "sessions": [
+      {
+        "id": 12,
+        "sessionId": 0,
+        "title": "The Fine Art of JavaScript Event Handling",
+        "sessionUrl": "the-fine-art-of-javascript-event-handling"
+      }
+    ]
+  },
+  {
+    "id": 36214,
+    "firstName": "Jeff",
+    "lastName": "Prestes",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "jeff-prestes-0",
+    "sessions": [
+      {
+        "id": 131,
+        "sessionId": 0,
+        "title": "Eddystone - Giving a URL to Physical Objects",
+        "sessionUrl": "eddystone---giving-a-url-to-physical-objects"
+      }
+    ]
+  },
+  {
+    "id": 32901,
+    "firstName": "Nic",
+    "lastName": "Raboy",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "nic-raboy-0",
+    "sessions": [
+      {
+        "id": 210,
+        "sessionId": 0,
+        "title": "Cross Platform Storage & Sync with Couchbase and Ionic Framework",
+        "sessionUrl": "cross-platform-storage-sync-with-couchbase-and-ionic-framework"
+      },
+      {
+        "id": 168,
+        "sessionId": 0,
+        "title": "Quick and Easy Development with Node.js and Couchbase Server",
+        "sessionUrl": "quick-and-easy-development-with-nodejs-and-couchbase-server"
+      }
+    ]
+  },
+  {
+    "id": 8006,
+    "firstName": "Devin",
+    "lastName": "Rader",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "devin-rader-0",
+    "sessions": [
+      {
+        "id": 218,
+        "sessionId": 0,
+        "title": "Real Communication with Real People in Real Time with WebRTC. For Reals.",
+        "sessionUrl": "real-communication-with-real-people-in-real-time-with-webrtc-for-reals"
+      }
+    ]
+  },
+  {
+    "id": 11709,
+    "firstName": "Sridhar",
+    "lastName": "Ramakrishnan",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "sridhar-ramakrishnan-0",
+    "sessions": [
+      {
+        "id": 54,
+        "sessionId": 0,
+        "title": "iOS and Android Apps automation",
+        "sessionUrl": "ios-and-android-apps-automation"
+      }
+    ]
+  },
+  {
+    "id": 21405,
+    "firstName": "Rakesh",
+    "lastName": "Ranjan",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "rakesh-ranjan-0",
+    "sessions": [
+      {
+        "id": 89,
+        "sessionId": 0,
+        "title": "Become a self proclaimed data scientist ",
+        "sessionUrl": "become-a-self-proclaimed-data-scientist"
+      }
+    ]
+  },
+  {
+    "id": 36058,
+    "firstName": "Rashi",
+    "lastName": "Ranjan",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "rashi-ranjan-0",
+    "sessions": [
+      {
+        "id": 90,
+        "sessionId": 0,
+        "title": "Save the Babies using just an Arduino and 100 lines of code!",
+        "sessionUrl": "save-the-babies-using-just-an-arduino-and-100-lines-of-code"
+      }
+    ]
+  },
+  {
+    "id": 10398,
+    "firstName": "Joseph",
+    "lastName": "Reynolds",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "joseph-reynolds-0",
+    "sessions": [
+      {
+        "id": 75,
+        "sessionId": 0,
+        "title": "Performance Testing with Visual Studio",
+        "sessionUrl": "performance-testing-with-visual-studio"
+      }
+    ]
+  },
+  {
+    "id": 8590,
+    "firstName": "Chris",
+    "lastName": "Richardson",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "chris-richardson-0",
+    "sessions": [
+      {
+        "id": 64,
+        "sessionId": 0,
+        "title": "Developing event-driven microservices with event sourcing and CQRS",
+        "sessionUrl": "developing-event-driven-microservices-with-event-sourcing-and-cqrs"
+      }
+    ]
+  },
+  {
+    "id": 17364,
+    "firstName": "Ryan",
+    "lastName": "Riley",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "ryan-riley-0",
+    "sessions": [
+      {
+        "id": 8,
+        "sessionId": 0,
+        "title": "Relax and let the HTTP Machine do the Work",
+        "sessionUrl": "relax-and-let-the-http-machine-do-the-work"
+      }
+    ]
+  },
+  {
+    "id": 2925,
+    "firstName": "Sunil",
+    "lastName": "Sabat",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "sunil-sabat-0",
+    "sessions": [
+      {
+        "id": 192,
+        "sessionId": 0,
+        "title": "Big Data Modeling for Mobile App World",
+        "sessionUrl": "big-data-modeling-for-mobile-app-world"
+      }
+    ]
+  },
+  {
+    "id": 37923,
+    "firstName": "Baruch",
+    "lastName": "Sadogursky",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "baruch-sadogursky-0",
+    "sessions": [
+      {
+        "id": 216,
+        "sessionId": 0,
+        "title": "Everything to know about writing async, high-concurrency HTTP apps in Java",
+        "sessionUrl": "everything-to-know-about-writing-async-high-concurrency-http-apps-in-java"
+      }
+    ]
+  },
+  {
+    "id": 18613,
+    "firstName": "Vishal",
+    "lastName": "Saxena",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "vishal-saxena-0",
+    "sessions": [
+      {
+        "id": 127,
+        "sessionId": 0,
+        "title": "Microsoft Azure & Threat modeling for cloud.",
+        "sessionUrl": "microsoft-azure-threat-modeling-for-cloud"
+      }
+    ]
+  },
+  {
+    "id": 37328,
+    "firstName": "Brian",
+    "lastName": "Schulman",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "brian-schulman-0",
+    "sessions": [
+      {
+        "id": 169,
+        "sessionId": 0,
+        "title": "Beginning Unity Shaders",
+        "sessionUrl": "beginning-unity-shaders"
+      }
+    ]
+  },
+  {
+    "id": 36217,
+    "firstName": "Craig",
+    "lastName": "Sebenik",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "craig-sebenik-0",
+    "sessions": [
+      {
+        "id": 135,
+        "sessionId": 0,
+        "title": "Introduction to Systems Management with SaltStack",
+        "sessionUrl": "introduction-to-systems-management-with-saltstack"
+      }
+    ]
+  },
+  {
+    "id": 37711,
+    "firstName": "Kostya",
+    "lastName": "Serebryany",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "kostya-serebryany-0",
+    "sessions": [
+      {
+        "id": 196,
+        "sessionId": 0,
+        "title": "Fuzzing and Hardening Your C++ Apps for Security and Reliability",
+        "sessionUrl": "fuzzing-and-hardening-your-c-apps-for-security-and-reliability"
+      }
+    ]
+  },
+  {
+    "id": 27993,
+    "firstName": "Sanjana",
+    "lastName": "Shah",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "sanjana-shah-0",
+    "sessions": [
+      {
+        "id": 150,
+        "sessionId": 0,
+        "title": "Build Your Game with Tynker",
+        "sessionUrl": "build-your-game-with-tynker"
+      }
+    ]
+  },
+  {
+    "id": 1533,
+    "firstName": "Robin",
+    "lastName": "Shahan",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "robin-shahan-0",
+    "sessions": [
+      {
+        "id": 212,
+        "sessionId": 0,
+        "title": "Azure Storage For Everyone",
+        "sessionUrl": "azure-storage-for-everyone"
+      }
+    ]
+  },
+  {
+    "id": 31998,
+    "firstName": "Basil",
+    "lastName": "Shikin",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "basil-shikin-0",
+    "sessions": [
+      {
+        "id": 66,
+        "sessionId": 0,
+        "title": "How to build a platform that can process 60 terabytes of data a day",
+        "sessionUrl": "how-to-build-a-platform-that-can-process-60-terabytes-of-data-a-day"
+      }
+    ]
+  },
+  {
+    "id": 37898,
+    "firstName": "Raju",
+    "lastName": "Shreewastava",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "raju-shreewastava-0",
+    "sessions": [
+      {
+        "id": 215,
+        "sessionId": 0,
+        "title": "7 Steps Big Data Journey for Enterprises ",
+        "sessionUrl": "7-steps-big-data-journey-for-enterprises"
+      }
+    ]
+  },
+  {
+    "id": 10295,
+    "firstName": "Scott",
+    "lastName": "Smith",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "scott-smith-0",
+    "sessions": [
+      {
+        "id": 111,
+        "sessionId": 0,
+        "title": "Don't Get Hacked!",
+        "sessionUrl": "dont-get-hacked"
+      }
+    ]
+  },
+  {
+    "id": 9274,
+    "firstName": "Paran",
+    "lastName": "Sonthalia",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "paran-sonthalia-0",
+    "sessions": [
+      {
+        "id": 209,
+        "sessionId": 0,
+        "title": "Building your First iOS App with Swift",
+        "sessionUrl": "building-your-first-ios-app-with-swift"
+      }
+    ]
+  },
+  {
+    "id": 12960,
+    "firstName": "Alan",
+    "lastName": "Souza",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "alan-souza-0",
+    "sessions": [
+      {
+        "id": 170,
+        "sessionId": 0,
+        "title": "Creating beautiful, fast and accessible enterprise app with Grommet",
+        "sessionUrl": "creating-beautiful-fast-and-accessible-enterprise-app-with-grommet"
+      }
+    ]
+  },
+  {
+    "id": 37984,
+    "firstName": "Nikita",
+    "lastName": "Takru",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "nikita-takru-0",
+    "sessions": [
+      {
+        "id": 219,
+        "sessionId": 0,
+        "title": "Intro to HTML and CSS",
+        "sessionUrl": "intro-to-html-and-css"
+      }
+    ]
+  },
+  {
+    "id": 8503,
+    "firstName": "Sumant",
+    "lastName": "Tambe",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "sumant-tambe-0",
+    "sessions": [
+      {
+        "id": 94,
+        "sessionId": 0,
+        "title": "Composable Generators and Property-based Testing in C++14",
+        "sessionUrl": "composable-generators-and-property-based-testing-in-c14"
+      }
+    ]
+  },
+  {
+    "id": 39659,
+    "firstName": "Balamurugan",
+    "lastName": "Thinagarajan",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "balamurugan-thinagarajan-0",
+    "sessions": [
+      {
+        "id": 222,
+        "sessionId": 0,
+        "title": "Developing robust mobile enterprise solutions with Samsung B2B SDKs",
+        "sessionUrl": "developing-robust-mobile-enterprise-solutions-with-samsung-b2b-sdks"
+      }
+    ]
+  },
+  {
+    "id": 5364,
+    "firstName": "Peter",
+    "lastName": "Thoeny",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "peter-thoeny-0",
+    "sessions": [
+      {
+        "id": 159,
+        "sessionId": 0,
+        "title": "Regular Expressions, To Match Or Not, That is the Question",
+        "sessionUrl": "regular-expressions-to-match-or-not-that-is-the-question"
+      }
+    ]
+  },
+  {
+    "id": 37645,
+    "firstName": "Lena",
+    "lastName": "Tran",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "lena-tran-0",
+    "sessions": [
+      {
+        "id": 213,
+        "sessionId": 0,
+        "title": "Softs Skills For Tech People Are Not Optional In Todays Job Market",
+        "sessionUrl": "softs-skills-for-tech-people-are-not-optional-in-todays-job-market"
+      }
+    ]
+  },
+  {
+    "id": 36206,
+    "firstName": "Rowan-James",
+    "lastName": "Tran",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "rowan-james-tran-0",
+    "sessions": [
+      {
+        "id": 174,
+        "sessionId": 0,
+        "title": "Designing and Building Web Applications with Bootstrap",
+        "sessionUrl": "designing-and-building-web-applications-with-bootstrap"
+      }
+    ]
+  },
+  {
+    "id": 37582,
+    "firstName": "John-Daniel",
+    "lastName": "Trask",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "john-daniel-trask-0",
+    "sessions": [
+      {
+        "id": 184,
+        "sessionId": 0,
+        "title": "Handling billions of exceptions with .NET & Raygun.io",
+        "sessionUrl": "handling-billions-of-exceptions-with-net-raygunio"
+      }
+    ]
+  },
+  {
+    "id": 17478,
+    "firstName": "Anoop",
+    "lastName": "Trivedi",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "anoop-trivedi-0",
+    "sessions": [
+      {
+        "id": 101,
+        "sessionId": 0,
+        "title": "Introduction to Python – Beginners – Level 1",
+        "sessionUrl": "introduction-to-python---beginners---level-1"
+      },
+      {
+        "id": 197,
+        "sessionId": 0,
+        "title": "Introduction to Python – Beginners – Level 2",
+        "sessionUrl": "introduction-to-python---beginners---level-2"
+      }
+    ]
+  },
+  {
+    "id": 370,
+    "firstName": "Adwait",
+    "lastName": "Ullal",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "adwait-ullal-0",
+    "sessions": [
+      {
+        "id": 139,
+        "sessionId": 0,
+        "title": "Microsoft Azure Fundamentals",
+        "sessionUrl": "microsoft-azure-fundamentals"
+      }
+    ]
+  },
+  {
+    "id": 39060,
+    "firstName": "William",
+    "lastName": "Vablais",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "william-vablais-0",
+    "sessions": [
+      {
+        "id": 220,
+        "sessionId": 0,
+        "title": "Samsung B2B Developer Program with Free Android Dev. Tools",
+        "sessionUrl": "samsung-b2b-developer-program-with-free-android-dev-tools"
+      }
+    ]
+  },
+  {
+    "id": 36101,
+    "firstName": "Kevin",
+    "lastName": "Van Gundy",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "kevin-van-gundy-0",
+    "sessions": [
+      {
+        "id": 102,
+        "sessionId": 0,
+        "title": "When Graphs Can & Tables Can't: an Introduction to Neo4j & Graph Databases",
+        "sessionUrl": "when-graphs-can-tables-cant-an-introduction-to-neo4j-graph-databases"
+      }
+    ]
+  },
+  {
+    "id": 24588,
+    "firstName": "Nicholas",
+    "lastName": "Vargas",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "nicholas-vargas-0",
+    "sessions": [
+      {
+        "id": 130,
+        "sessionId": 0,
+        "title": "Prototype an IoT Healthcare Cloud App with Virtual Sensors",
+        "sessionUrl": "prototype-an-iot-healthcare-cloud-app-with-virtual-sensors"
+      }
+    ]
+  },
+  {
+    "id": 37702,
+    "firstName": "Keven",
+    "lastName": "Wang",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "keven-wang-0",
+    "sessions": [
+      {
+        "id": 193,
+        "sessionId": 0,
+        "title": "Rapid Deployment & Strategies for launching a browser extension",
+        "sessionUrl": "rapid-deployment-strategies-for-launching-a-browser-extension"
+      }
+    ]
+  },
+  {
+    "id": 36216,
+    "firstName": "Justin",
+    "lastName": "Woo",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "justin-woo-0",
+    "sessions": [
+      {
+        "id": 132,
+        "sessionId": 0,
+        "title": "Hooked on Webhooks",
+        "sessionUrl": "hooked-on-webhooks"
+      },
+      {
+        "id": 133,
+        "sessionId": 0,
+        "title": "Introduction to Node.js and using APIs",
+        "sessionUrl": "introduction-to-nodejs-and-using-apis"
+      }
+    ]
+  },
+  {
+    "id": 9715,
+    "firstName": "Jae",
+    "lastName": "Yang",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "jae-yang-0",
+    "sessions": [
+      {
+        "id": 140,
+        "sessionId": 0,
+        "title": "Developing Automated Stock Trading System with Node.js",
+        "sessionUrl": "developing-automated-stock-trading-system-with-nodejs"
+      }
+    ]
+  },
+  {
+    "id": 7352,
+    "firstName": "Ray",
+    "lastName": "Yang",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "ray-yang-0",
+    "sessions": [
+      {
+        "id": 106,
+        "sessionId": 0,
+        "title": "Introducing TestScribe, an open source tool to make testing easier",
+        "sessionUrl": "introducing-testscribe-an-open-source-tool-to-make-testing-easier"
+      }
+    ]
+  },
+  {
+    "id": 11388,
+    "firstName": "Aysegul",
+    "lastName": "Yonet",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "aysegul-yonet-0",
+    "sessions": [
+      {
+        "id": 15,
+        "sessionId": 0,
+        "title": "Introduction to Data Visualization with D3.js",
+        "sessionUrl": "introduction-to-data-visualization-with-d3js"
+      }
+    ]
+  },
+  {
+    "id": 1211,
+    "firstName": "Ted",
+    "lastName": "Young",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "ted-young-0",
+    "sessions": [
+      {
+        "id": 82,
+        "sessionId": 0,
+        "title": "Deploying Applications using the Docker ecosystem",
+        "sessionUrl": "deploying-applications-using-the-docker-ecosystem"
+      },
+      {
+        "id": 233,
+        "sessionId": 0,
+        "title": "Deploying Applications using the Docker ecosystem (Repeat)",
+        "sessionUrl": "deploying-applications-using-the-docker-ecosystem-repeat"
+      }
+    ]
+  },
+  {
+    "id": 5083,
+    "firstName": "Roy",
+    "lastName": "Yu",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "roy-yu-0",
+    "sessions": [
+      {
+        "id": 24,
+        "sessionId": 0,
+        "title": "Introduction to React + Reflux and how to boost your development workflow",
+        "sessionUrl": "introduction-to-react-reflux-and-how-to-boost-your-development-workflow"
+      }
+    ]
+  },
+  {
+    "id": 12591,
+    "firstName": "Tobiah",
+    "lastName": "Zarlez",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "tobiah-zarlez-0",
+    "sessions": [
+      {
+        "id": 38,
+        "sessionId": 0,
+        "title": "Introduction to CoronaSDK and CoronaCards",
+        "sessionUrl": "introduction-to-coronasdk-and-coronacards"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "firstName": "Roman",
+    "lastName": "Zhovtulya",
+    "allowHtml": false,
+    "pictureId": 0,
+    "speakerUrl": "roman-zhovtulya-0",
+    "sessions": [
+      {
+        "id": 116,
+        "sessionId": 0,
+        "title": "Manage your life: Web-based goal, time, project, health management",
+        "sessionUrl": "manage-your-life-web-based-goal-time-project-health-management"
+      }
+    ]
+  }
+]
