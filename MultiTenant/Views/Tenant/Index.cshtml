@@ -1,7 +1,14 @@
-﻿
+﻿@model IEnumerable<MultiTenant.Models.Tenant>
 @{
     ViewBag.Title = "Index";
 }
 
 <h2>Index</h2>
+<ul>
+    @foreach (var tenant in Model)
+    {
+        <li>@tenant.Name</li>
+    }
+</ul>
+
 

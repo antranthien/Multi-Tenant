@@ -143,6 +143,15 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201605051418577_InitialCreate.cs" />
+    <Compile Include="Migrations\201605051418577_InitialCreate.Designer.cs">
+      <DependentUpon>201605051418577_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201605051424524_add speakers and sessions.cs" />
+    <Compile Include="Migrations\201605051424524_add speakers and sessions.Designer.cs">
+      <DependentUpon>201605051424524_add speakers and sessions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\MultiTenantContext.cs" />
     <Compile Include="Models\Session.cs" />
     <Compile Include="Models\Speaker.cs" />
@@ -196,6 +205,14 @@
     <Content Include="packages.config" />
     <None Include="Project_Readme.html" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201605051418577_InitialCreate.resx">
+      <DependentUpon>201605051418577_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201605051424524_add speakers and sessions.resx">
+      <DependentUpon>201605051424524_add speakers and sessions.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

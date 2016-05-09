@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MultiTenant.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -11,7 +12,12 @@ namespace MultiTenant.Controllers
         // GET: Tenant
         public ActionResult Index()
         {
-            return View();
+            using (var context = new MultiTenantContext())
+            {
+                var tenants = context.Tenants.ToList();
+                return View(tenants);
+            }
+            
         }
     }
 }
