@@ -86,7 +86,7 @@ namespace MultiTenant.Models
 
                 var sessionForAdd = new Session
                 {
-                    Id = session.id,
+                    SessionId = session.id,
                     Description = session.description,
                     ShortDescription = session.descriptionShort,
                     Title = session.title
