@@ -4,18 +4,19 @@ using System.Data.Entity;
 using System.IO;
 using System.Reflection;
 using System.Threading.Tasks;
+using System.Linq;
 
 namespace MultiTenant.Models
 {
-    public class MultiTenantInitializer : DropCreateDatabaseAlways<MultiTenantContext>
+    public class MultiTenantInitializer : CreateDatabaseIfNotExists<MultiTenantContext>
     {
-        protected override void Seed(MultiTenantContext context)
+        protected override async void Seed(MultiTenantContext context)
         {
             var tenants = new List<Tenant>
             {
                 new Tenant
                 {
-                    Name = "SVC",
+                    Name = "SVCC",
                     DomainName = "www.codecamp.com",
                     Default = true
                 },
@@ -33,9 +34,12 @@ namespace MultiTenant.Models
                 }
             };
 
-            //   context.Tenants.AddRange(tenants);
+            context.Tenants.AddRange(tenants);
+            context.SaveChanges();
 
-            //context.SaveChanges();
+            await CreateSpeakers(context);
+            await CreateSessions(context);
+            
         }
 
         private async Task CreateSpeakers(MultiTenantContext context)
@@ -58,13 +62,16 @@ namespace MultiTenant.Models
                     Website = speaker.website
                 });
             }
+
+            context.SaveChanges();
         }
 
         private async Task CreateSessions(MultiTenantContext context)
         {
             var sessionJson = await GetEmbeddedResourceAsString("MultiTenant.session.json");
 
-            var tenants = await context.Tenants.ToListAsync();
+            var tenants =  context.Tenants.ToList();
+            var speakers = context.Speakers.ToList();
 
             JArray jsonValSessions = JArray.Parse(sessionJson);
 
@@ -77,8 +84,32 @@ namespace MultiTenant.Models
             {
                 sessionTenantDict.Add((int)session.id, (string)session.tenantName);
 
+                var sessionForAdd = new Session
+                {
+                    Id = session.id,
+                    Description = session.description,
+                    ShortDescription = session.descriptionShort,
+                    Title = session.title
+                };
 
+                sessionForAdd.Speakers = new List<Speaker>();
+
+                foreach (var speaker in session.speakers)
+                {
+                    var speakerId = (int)speaker.id;
+                    var speakerOfSession = speakers
+                        .FirstOrDefault(s => s.PictureId == speakerId);
+                    sessionForAdd.Speakers.Add(speakerOfSession);
+                }
+
+                // Add session property
+                var tenantNameOfSession = (string)session.tenantName;
+                sessionForAdd.Tenant = tenants.FirstOrDefault(t => t.Name == tenantNameOfSession);
+
+                context.Sessions.Add(sessionForAdd);             
             }
+
+            context.SaveChanges();
         }
         private async Task<string> GetEmbeddedResourceAsString(string resourceName)
         {

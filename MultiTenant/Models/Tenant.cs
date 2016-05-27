@@ -13,7 +13,7 @@ namespace MultiTenant.Models
 
         public string DomainName { get; set; }
 
-        //only  tenant is allowed to be true
+        //only 1  tenant is allowed to be true
         public bool Default { get; set; }
 
     }
